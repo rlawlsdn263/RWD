@@ -91,7 +91,7 @@ div[class*="group"] {
   }
 
   div.group2 {
-    order: 1;
+    order:1;
   }
 
   div.group1, div.group12{
